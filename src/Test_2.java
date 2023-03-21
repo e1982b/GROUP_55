@@ -1,6 +1,6 @@
 public class Test_2 {
 
-    int x = 15, y = 20;
+    int x = 15, y = 20; double z= 15.5;
 
     public int sum() {
         return x + y;
