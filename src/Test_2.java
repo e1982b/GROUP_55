@@ -8,6 +8,7 @@ public class Test_2 {
 
     public static void main(String[] args) {
         Test_2 test= new Test_2();
+        System.out.println("test.x = " + test.x);
         System.out.println("test.sum() = " + test.sum());
 
     }
