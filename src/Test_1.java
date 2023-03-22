@@ -6,6 +6,7 @@ public class Test_1 {
         System.out.println(a + b);
         // a+b toplami
         System.out.println("a*b = " + a * b);
+        // a/b bölümü
         System.out.println(a / b);
 
     }
