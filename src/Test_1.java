@@ -8,6 +8,7 @@ public class Test_1 {
         // a+b toplami
         System.out.println("a*b = " + a * b);
         System.out.println(a / b);
+        System.out.println(a+b-2*b);
 
     }
 }
