@@ -15,6 +15,8 @@ public class Test_1 {
 
         System.out.println("sum of numbers =" + (a + b));
         System.out.println(a + b);
+        System.out.println("deneme");
+        System.out.println("bi seyler ögrenmeye calisiyorum ");
         // a+b toplami
         System.out.println("a*b = " + a * b);
         // a/b bölümü
