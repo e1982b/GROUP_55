@@ -11,6 +11,7 @@ public class Test_2 {
         Test_2 test= new Test_2();
         System.out.println("test.x = " + test.x);
         System.out.println("test.sum() = " + test.sum());
+        System.out.println("herkese selam");
 
     }
 }
